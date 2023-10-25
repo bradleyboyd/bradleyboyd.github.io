@@ -2,16 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -19,8 +15,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-#Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research aims to improve our understanding of fluid dynamic problems using direct numerical simulation. I have been working on various fluid problems involving shock waves, acoustic waves, bubbles, droplets, and phase change for cavitation, fuel injection, and boiling applications. Multiphase flow problems are of particular interest as they offer many avenues for improving computational and numerical methods.
 
-#Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I am a postdoctural researcher in the [Department of Mechanical Engineering, University of Canterbury](https://www.canterbury.ac.nz/engineering/schools/mechanical/?gad=1&gclid=CjwKCAjw1t2pBhAFEiwA_-A-NBD2hezc4jsUZIxTiw7qJFjBuPJqY_LBdeUICzzaZguUeL5a2cMpMRoCRckQAvD_BwE). I teach Computational Fluid Dynamics (CFD), [Heat Transfer](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=ENME315&occurrence=23S2(C)&year=2023),
+[Thermodynamics](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=ENME215&occurrence=23S1(C)&year=2023), and [Heating Ventilation and Air Conditioning (HVAC) Engineering](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=ENME465&occurrence=23S1(C)&year=2023).
 
-#Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.

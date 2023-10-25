@@ -1,0 +1,65 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Bradley William Boyd
+    - name: Date of Birth
+      value: 18th April 1993
+    - name: Languages
+      value: English
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Mechanical Engineering
+      institution: University of Canterbury, Chirstchurch, New Zealand
+      year: 2019
+      description:
+        - "Thesis title: Numerical modeling of an acoustically-driven bubble: the growth and collapse near a wall."
+    - title: BE(Hons) Mechanical Engineering 1st Class Honours
+      institution: University of Canterbury, Chirstchurch, New Zealand
+      year: 2015
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Lecturer/Postdoc
+      institution: Department of Mechanical Engineering, University of Canterbury
+      year: 2022 - 2024
+      description:
+        - title: Lecturing.
+          contents:
+            - Heat transfer
+            - HVAC Engineering
+            - Thermodynamics
+        - title: Researching multiphase flow problems
+          contents:
+            - Areodynamic breakup of vaporizing drops
+            - Air-blast atomization of annular liquid jet
+
+    - title: Postdoctoral Researcher
+      institution: Department of Mechanical Engineering, Baylor University, Waco, Texas, USA
+      year: 2021 - 2022
+      description:
+        - "High-Fidelity Modeling: Spray Formation, Evaporation, & Boiling"
+        - Co-lecturing a graduate course on CFD.
+
+    - title: Postdoctoral Researcher
+      institution: "Department of Mechanical Engineering, Texas A&M University, College Station, Texas, USA"
+      year: 2019 - 2021
+      description:
+        - "Development of multiphase CFD solver used for simulating transcritical flow problems, e.g. high-pressure diesel injection"
+
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Computational fluid dynamics (CFD)
+      items:  
+        - Numerical methods.
+        - "High-performance computing"
+    - title: Multiphase flow problem
+      items:
+        - "Phase-change: Boiling, Vaporization, Evaporation, & Condensation"
+        - "Multiphase instability, i.e., Rayleigh-Taylor and Kelvin-Helmholtz instability"
+        - Atomization and sprays
+
